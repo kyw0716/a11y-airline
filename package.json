@@ -2,7 +2,7 @@
   "name": "a11y-component",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kyw0716.github.io/ally-component/",
+  "homepage": "https://kyw0716.github.io/a11y-airline/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
